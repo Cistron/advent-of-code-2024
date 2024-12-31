@@ -1,0 +1,1 @@
+Bumbling my way through the advent of code 2024 :D
